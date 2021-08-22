@@ -1,2 +1,2 @@
 # court_counter
-![image](courtcunter.gif)
+![image](https://github.com/eunicePops/court_counter/blob/main/images/courtcunter.gif)
